@@ -4,4 +4,4 @@
 * 2.- databaseChallenge: SQL script for create database, tables and inserts in MariaDB
 * 3.- tests folder: Examples of usage api-rest, testing using postman
 
-- Jairo Guerra Ríos
+-Jairo Guerra Ríos
